@@ -1,0 +1,25 @@
+{
+  "name": "next-update-failed",
+  "version": "0.0.0",
+  "description": "Lets npm package owner know someone tried to upgrade a version and failed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bahmutov/next-update-failed.git"
+  },
+  "keywords": [
+    "npm",
+    "version",
+    "update",
+    "failed"
+  ],
+  "author": "Gleb Bahmutov <gleb.bahmutov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bahmutov/next-update-failed/issues"
+  },
+  "homepage": "https://github.com/bahmutov/next-update-failed"
+}
